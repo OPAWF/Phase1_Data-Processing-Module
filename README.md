@@ -9,4 +9,5 @@ Format. The major components are variables and dimensions. Variables can have mu
 dimensions. The metaphorical data are streamed until the required time span is reached. The
 data is used to create the data frame
 
-![fe](https://user-images.githubusercontent.com/62131312/175823674-c69fc0f9-a6e6-4cb8-8a57-58c2f4c20d3d.png)
+
+![project x-Page-5 drawio (4)](https://user-images.githubusercontent.com/48130836/175823795-37e7a848-c8f1-495c-9f6d-1f30b8cd11bf.png)
